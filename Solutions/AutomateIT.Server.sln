@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateIT.Server", "..\src\Server\AutomateIT.Server\AutomateIT.Server.csproj", "{A5A5B9FC-061E-4739-97F2-E9C7040EDB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A5B9FC-061E-4739-97F2-E9C7040EDB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A5B9FC-061E-4739-97F2-E9C7040EDB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A5B9FC-061E-4739-97F2-E9C7040EDB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A5B9FC-061E-4739-97F2-E9C7040EDB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E8EE9B-2E98-4538-AB4C-006C2A473D7D}
+	EndGlobalSection
+EndGlobal
